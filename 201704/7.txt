@@ -1,4 +1,4 @@
-jsp留言板 
+﻿jsp留言板 
 	application
 	翻页功能十条一页
 	添加表情
